@@ -1,0 +1,23 @@
+sphere
+0 0 50
+ident
+yrotate
+40
+translate
+-100 0 0
+apply
+torus
+0 -250 25 125
+ident
+xrotate
+30
+yrotate
+20
+translate
+250 350 0
+box
+0 0 0 100 100 100
+apply
+display
+save
+pic.png
